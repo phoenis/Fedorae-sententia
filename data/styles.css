@@ -54,7 +54,11 @@
 .sticky_2 {
   text-align:left;
 }
+.box_1 {
+}
 .box_2 {
+}
+.box_3 {
 }
 .image {
 }
@@ -62,6 +66,9 @@
 }
 .button {
   font-size:20px;
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .link_button {
   color:#169BD5;
